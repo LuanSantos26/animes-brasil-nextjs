@@ -81,7 +81,7 @@ const Form = styled.form`
 const Input = styled.input`
   padding: 0.75rem;
   border-radius: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #c24242ff;
   font-size: 1rem;
 `;
 
