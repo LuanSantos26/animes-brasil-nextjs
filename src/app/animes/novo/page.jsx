@@ -94,7 +94,7 @@ const Form = styled.form`
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  background-color: #f8fafc;
+  background-color: #b6731bff;
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);

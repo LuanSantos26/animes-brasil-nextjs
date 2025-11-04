@@ -119,7 +119,7 @@ const AnimeList = styled.ul`
 `;
 
 const AnimeItem = styled.li`
-  background-color: #f1f5f9;
+  background-color: #dd140db0;
   border-radius: 10px;
   padding: 1rem 1.5rem;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);

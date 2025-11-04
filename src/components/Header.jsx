@@ -13,10 +13,10 @@ export default function Header() {
     <>
       <HeaderContainer>
         <HeaderContent>
-          <Logo href="/">ADS Animes</Logo>
+          <Logo href="/">ADS Super Animes </Logo>
 
           <Nav>
-            <NavLink href="/">Home</NavLink>
+            <NavLink href="/">Inicio</NavLink>
             <NavLink href="/animes">Animes</NavLink>
             <NavLink href="/animes/novo">Cadastrar</NavLink>
 
@@ -34,7 +34,7 @@ export default function Header() {
 
 // 💅 Estilos do Header
 const HeaderContainer = styled.header`
-  background-color: #1e293b;
+  background-color: #c92407ce;
   color: white;
   padding: 1rem 2rem;
   position: fixed;

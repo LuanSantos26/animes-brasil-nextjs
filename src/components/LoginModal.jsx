@@ -50,7 +50,7 @@ export default function LoginModal({ onClose }) {
 const Overlay = styled.div`
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(250, 4, 4, 0.78));
   display: flex;
   justify-content: center;
   align-items: center;
